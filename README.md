@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dishant 
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/dishant-nalwaya-066604206/
+- 📫 How to reach me through mail dishantd442442@gmail.com
 
 
 <!---
