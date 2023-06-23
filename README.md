@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dishant 
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me through mail dishantd442442@gmail.com
+- 📫 Reach me through mail dishantd442442@gmail.com
 
 
 <!---
